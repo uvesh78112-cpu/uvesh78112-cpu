@@ -1,30 +1,74 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&width=1000&height=180&section=header&text=%E2%88%9A%20UVESH%20CHAUHAN%20//%20SECURE%20SERVER&fontSize=50&fontColor=00F2FF&animation=twinkling" alt="System Header" />
+  <img src="https://your-gif-link.gif" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/hacker-min.gif" width="400px" alt="Hacker Visual" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=00F2FF&center=true&vCenter=true&width=500&height=100&lines=INITIALIZING+SECURE+PROTOCOL...;%3E%3E+FETCHING+SYSTEM+MODULES+<;%3E%3E+KERNEL:+OK!+%7C%7C+MEMORY:+OK!+%7C%7C+NET:+OK!;DECRYPTING+USER+PROFILE...;ACCESS%20GRANTED" alt="Command Line sequence" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
-</p>
+<h1 align="center">Hi 👋, I'm Uvesh</h1>
+<h3 align="center">Full Stack Developer | AI Systems Builder | Problem Solver</h3>
 
 ---
 
-### 💻 System capabilities
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple,cpp,python,firebase,linux,git,github&theme=dark" />
-</p>
+## 🚀 About Me
+- 🔭 Building intelligent systems like **Nova Core** & **Lumina Shield**
+- 🧠 Passionate about AI, automation & real-world problem solving
+- 💡 6+ years experience in building tools & systems
+- 🎯 Focused on creating scalable and impactful tech
 
 ---
 
-### 📊 Real-Time telemetry
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=00F2FF&icon_color=00F2FF&text_color=ffffff&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&stroke=00F2FF&ring=00F2FF&fire=00F2FF&currStreakNum=ffffff" width="48%" />
-</p>
+## 🧠 Tech Stack
+
+**Languages:**  
+Python • Java • C++
+
+**Frontend:**  
+HTML • CSS • React.js
+
+**Backend:**  
+Node.js
+
+**AI & Tools:**  
+Groq API • LLaMA 3.1 • Git • VS Code
+
+---
+
+## 🔥 Featured Projects
+
+### 🚀 Nova Core
+- Modular AI engine for real-time data analysis  
+- 800+ users  
+- Privacy-first architecture  
+
+🔗 GitHub: https://github.com/uvesh78112-cpu/Nova  
+
+---
+
+### 🛡️ Lumina Shield
+- AI-powered vulnerability scanner  
+- Detects bugs + suggests fixes  
+
+🔗 GitHub: https://github.com/uvesh78112-cpu/Lumina-Shield  
+
+---
+
+### 💰 Expense Manager AI
+- Tracks expenses, savings & bills  
+- Smart analytics + discount tracking  
+
+🔗 GitHub: https://github.com/uvesh78112-cpu/Expense-Manager-AI  
+
+---
+
+## 🎥 Project Demos
+📺 https://youtube.com/@uvesh-s8z  
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Uvesh78112-cpu&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/uvesh-a5b9b2404  
+- Email: Uvesh78112@gmail.com
